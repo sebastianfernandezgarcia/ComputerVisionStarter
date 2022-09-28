@@ -1,5 +1,6 @@
 ## Práctica 1. Primeros pasos con OpenCV
 
+### Código inicial proporcionado por otsedom/otsedom.github.io con modificaciones y cosas añadidas 
 ### Contenidos
 
 [Instalación](#11-instalando-el-entorno-de-desarrollo)
